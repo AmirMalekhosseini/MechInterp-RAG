@@ -1,4 +1,3 @@
-```markdown
 # LLM Memory & Retrieval: Mechanistic Interpretability + RAG
 
 > An exploration of how Large Language Models store factual knowledge internally and how to augment that knowledge externally using a Retrieval-Augmented Generation (RAG) pipeline.
@@ -43,6 +42,3 @@ Open the main notebook (`main_notebook.ipynb`) and run the cells sequentially.
 
 
 
-```
-
-```
