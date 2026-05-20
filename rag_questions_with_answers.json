@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "For what specific amount did Gale Anne Hurd buy the script for The Terminator from James Cameron?",
+    "answer": "One dollar",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "One dollar",
+    "llm_response_3chunk": "Gale Anne Hurd bought the script for The Terminator from James Cameron for one dollar, on the condition that Cameron would direct the film.",
+    "llm_response_5chunk": "Gale Anne Hurd bought the script for The Terminator from James Cameron for one dollar, on the condition that Cameron would direct the film.",
+    "llm_response_7chunk": "Gale Anne Hurd bought the script for The Terminator from James Cameron for one dollar, on the condition that Cameron would direct the film."
+  },
+  {
+    "id": 2,
+    "question": "In the movie Goodfellas, how much was the real Henry Hill paid two weeks in advance of the filming?",
+    "answer": "$480,000",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Two weeks in advance of the filming, the real Henry Hill was paid $480,000.",
+    "llm_response_3chunk": "$480,000",
+    "llm_response_5chunk": "Two weeks in advance of the filming, the real Henry Hill was paid $480,000.",
+    "llm_response_7chunk": "The real Henry Hill was paid $480,000 two weeks in advance of the filming."
+  },
+  {
+    "id": 3,
+    "question": "At which Spanish phone company did Pedro Almodóvar work as an administrative assistant for 12 years?",
+    "answer": "Telefónica",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Pedro Almodóvar worked as an administrative assistant at the Spanish phone company Telefónica for 12 years.",
+    "llm_response_3chunk": "Pedro Almodóvar worked as an administrative assistant with the Spanish phone company Telefónica for 12 years.",
+    "llm_response_5chunk": "Pedro Almodóvar worked as an administrative assistant with the Spanish phone company Telefónica for 12 years.",
+    "llm_response_7chunk": "Pedro Almodóvar worked as an administrative assistant at Telefónica for 12 years."
+  },
+  {
+    "id": 4,
+    "question": "In the movie Pulp Fiction, which specific set was the most expensive to create, costing $150,000?",
+    "answer": "Jack Rabbit Slim's",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "I can't answer",
+    "llm_response_5chunk": "I can't answer",
+    "llm_response_7chunk": "I can't answer"
+  },
+  {
+    "id": 5,
+    "question": "Which famous composer did Kathryn Bigelow team up with on a real-estate venture to renovate and sell apartments?",
+    "answer": "Philip Glass",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Philip Glass",
+    "llm_response_3chunk": "Philip Glass",
+    "llm_response_5chunk": "Philip Glass",
+    "llm_response_7chunk": "Philip Glass"
+  },
+  {
+    "id": 6,
+    "question": "What is the name of the production company founded by Wong Kar-wai and Jeff Lau in 1992?",
+    "answer": "Jet Tone Films",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "I can't answer",
+    "llm_response_5chunk": "I can't answer",
+    "llm_response_7chunk": "Jet Tone Films"
+  },
+  {
+    "id": 7,
+    "question": "What was the name of the film club co-founded by Bong Joon Ho during his time at Yonsei University?",
+    "answer": "Yellow Door",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Yellow Door",
+    "llm_response_3chunk": "The name of the film club co-founded by Bong Joon Ho during his time at Yonsei University was \"Yellow Door\".",
+    "llm_response_5chunk": "The name of the film club co-founded by Bong Joon Ho during his time at Yonsei University was \"Yellow Door\".",
+    "llm_response_7chunk": "Yellow Door"
+  },
+  {
+    "id": 8,
+    "question": "In the movie The Silence of the Lambs, who created the iconic mask worn by Anthony Hopkins?",
+    "answer": "Ed Cubberly",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "Ed Cubberly created the iconic mask worn by Anthony Hopkins in The Silence of the Lambs.",
+    "llm_response_5chunk": "Ed Cubberly created the iconic mask worn by Anthony Hopkins.",
+    "llm_response_7chunk": "Ed Cubberly created the iconic mask worn by Anthony Hopkins."
+  },
+  {
+    "id": 9,
+    "question": "Which talent and literary agency began representing Ang Lee after his NYU thesis work drew their attention in 1985?",
+    "answer": "William Morris Agency",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "I can't answer",
+    "llm_response_5chunk": "I can't answer",
+    "llm_response_7chunk": "I can't answer"
+  },
+  {
+    "id": 10,
+    "question": "How many pounds did Robert De Niro lose to prepare for his role in the movie Taxi Driver?",
+    "answer": "35 pounds",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Robert De Niro lost 35 pounds to prepare for his role in the movie Taxi Driver.",
+    "llm_response_3chunk": "De Niro lost 35 pounds (16 kilograms) to prepare for his role in Taxi Driver.",
+    "llm_response_5chunk": "Robert De Niro lost 35 pounds (16 kilograms) to prepare for his role in Taxi Driver.",
+    "llm_response_7chunk": "Robert De Niro lost 35 pounds (16 kilograms) to prepare for his role in Taxi Driver."
+  },
+  {
+    "id": 11,
+    "question": "In the movie Blade Runner, what is the specific generic term used for the fictional flying cars that can take off vertically and hover?",
+    "answer": "Spinner",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Spinner",
+    "llm_response_3chunk": "The specific generic term used for the fictional flying cars in Blade Runner is \"spinner\".",
+    "llm_response_5chunk": "The specific generic term used for the fictional flying cars in Blade Runner is \"spinner\".",
+    "llm_response_7chunk": "The specific generic term used for the fictional flying cars in Blade Runner is \"spinner\"."
+  },
+  {
+    "id": 12,
+    "question": "What is the name of the clothing line started by Sofia Coppola that is now sold exclusively in Japan?",
+    "answer": "Milkfed",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Milk Fed",
+    "llm_response_3chunk": "Milk Fed",
+    "llm_response_5chunk": "Milk Fed",
+    "llm_response_7chunk": "Milk Fed"
+  },
+  {
+    "id": 13,
+    "question": "On which sports team did Tim Burton play while attending Burbank High School?",
+    "answer": "Water polo team",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "Tim Burton played on the water polo team at Burbank High School.",
+    "llm_response_5chunk": "Tim Burton played on the water polo team at Burbank High School.",
+    "llm_response_7chunk": "Tim Burton played on the water polo team at Burbank High School."
+  },
+  {
+    "id": 14,
+    "question": "In the movie Star Wars, which specific programming language did Larry Cuba use to create the digital animation of the Death Star plans shown at the rebel base?",
+    "answer": "GRASS",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Larry Cuba used the GRASS programming language to create the digital animation of the Death Star plans shown at the rebel base.",
+    "llm_response_3chunk": "Larry Cuba used the GRASS programming language to create the digital animation of the Death Star plans shown at the rebel base.",
+    "llm_response_5chunk": "Larry Cuba used the GRASS programming language to create the digital animation of the Death Star plans shown at the rebel base.",
+    "llm_response_7chunk": "Larry Cuba used the GRASS programming language to create the digital animation of the Death Star plans shown at the rebel base."
+  },
+  {
+    "id": 15,
+    "question": "How many minutes long was the standing ovation that the film Pan's Labyrinth received at its Cannes Film Festival premiere?",
+    "answer": "22 minutes",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "22 minutes",
+    "llm_response_3chunk": "The film received a 22-minute-long standing ovation at its Cannes Film Festival premiere.",
+    "llm_response_5chunk": "The film received a 22-minute-long standing ovation at its Cannes Film Festival premiere.",
+    "llm_response_7chunk": "The film Pan's Labyrinth received a 22-minute-long standing ovation at its Cannes Film Festival premiere."
+  },
+  {
+    "id": 16,
+    "question": "Which company announced in June 2025 that Denis Villeneuve would direct the 26th James Bond film?",
+    "answer": "Amazon MGM Studios",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Amazon MGM Studios",
+    "llm_response_3chunk": "Amazon MGM Studios announced in June 2025 that Denis Villeneuve would direct the 26th James Bond film.",
+    "llm_response_5chunk": "Amazon MGM Studios announced in June 2025 that Denis Villeneuve would direct the 26th James Bond film.",
+    "llm_response_7chunk": "Amazon MGM Studios announced in June 2025 that Denis Villeneuve would direct the 26th James Bond film."
+  },
+  {
+    "id": 17,
+    "question": "which traditional Japanese inn in Yamagata Prefecture served as a major architectural inspiration for the film Spirited Away?",
+    "answer": "Notoya Ryokan",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "The Notoya Ryokan in Yamagata Prefecture, Yamagata Prefecture.",
+    "llm_response_3chunk": "The Notoya Ryokan in Yamagata Prefecture served as a major architectural inspiration for the film Spirited Away.",
+    "llm_response_5chunk": "The Notoya Ryokan in Yamagata Prefecture served as a major architectural inspiration for Spirited Away.",
+    "llm_response_7chunk": "The Notoya Ryokan in Yamagata Prefecture, famous for its exquisite architecture and ornamental features, served as a major architectural inspiration for Spirited Away."
+  },
+  {
+    "id": 18,
+    "question": "Which famous filmmaker was David Fincher's neighbor during his childhood in San Anselmo, California?",
+    "answer": "George Lucas",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "I can't answer",
+    "llm_response_5chunk": "I can't answer",
+    "llm_response_7chunk": "I can't answer"
+  },
+  {
+    "id": 19,
+    "question": "In the movie Apocalypse Now, who performed the character's voiceover narrations because Martin Sheen was too busy to record them?",
+    "answer": "Joe Estevez",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Estevez was called back in to record the narration because Martin Sheen was too busy.",
+    "llm_response_3chunk": "Estevez was called back in to record the narration instead.",
+    "llm_response_5chunk": "Estevez was called back in to record the narration because Martin Sheen was too busy.",
+    "llm_response_7chunk": "Estevez was called back in to record the narration because Martin Sheen was too busy."
+  },
+  {
+    "id": 20,
+    "question": "What is the name of the special-effects makeup company formed by Guillermo del Toro?",
+    "answer": "Necropia",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Necropia",
+    "llm_response_3chunk": "Necropia",
+    "llm_response_5chunk": "Necropia",
+    "llm_response_7chunk": "Necropia"
+  },
+  {
+    "id": 21,
+    "question": "From which college did Greta Gerwig graduate with a degree in English and philosophy?",
+    "answer": "Barnard College",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Barnard College",
+    "llm_response_3chunk": "Barnard College",
+    "llm_response_5chunk": "Barnard College",
+    "llm_response_7chunk": "Greta Gerwig graduated from Barnard College."
+  },
+  {
+    "id": 22,
+    "question": "What does the Italian word \"Ghibli\" mean, which Miyazaki used as the name for his studio?",
+    "answer": "A hot wind that blows in the desert",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "The Italian word \"Ghibli\" means \"a hot wind that blows in the desert.\"",
+    "llm_response_3chunk": "The Italian word \"Ghibli\" means \"hot wind\" in Italian.",
+    "llm_response_5chunk": "The Italian word \"Ghibli\" means \"hot wind\" in Italian.",
+    "llm_response_7chunk": "The Italian word \"Ghibli\" means \"hot wind\" in Italian."
+  },
+  {
+    "id": 23,
+    "question": "What is the name of the production and distribution company created by Alfonso Cuarón to show his support for an international language?",
+    "answer": "Esperanto Filmoj",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Esperanto Filmoj",
+    "llm_response_3chunk": "Esperanto Filmoj",
+    "llm_response_5chunk": "Esperanto Filmoj",
+    "llm_response_7chunk": "Esperanto Filmoj"
+  },
+  {
+    "id": 24,
+    "question": "What was the name of the video store in Manhattan Beach where Quentin Tarantino worked for five years?",
+    "answer": "Video Archives",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Video Archives",
+    "llm_response_3chunk": "The video store in Manhattan Beach where Quentin Tarantino worked for five years was called Video Archives.",
+    "llm_response_5chunk": "The video store in Manhattan Beach where Quentin Tarantino worked for five years was called Video Archives.",
+    "llm_response_7chunk": "The video store in Manhattan Beach where Quentin Tarantino worked for five years was called Video Archives."
+  },
+  {
+    "id": 25,
+    "question": "which specific painting by Edward Hopper served as the model for the look of the Bates house in the movie Psycho?",
+    "answer": "House by the Railroad",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Edward Hopper's painting \"House by the Railroad\" modeled the look of the Bates house in the movie Psycho.",
+    "llm_response_3chunk": "Edward Hopper's painting \"House by the Railroad\" modeled the look of the Bates house in the movie Psycho.",
+    "llm_response_5chunk": "Edward Hopper's painting \"House by the Railroad\" modeled the look of the Bates house in the movie Psycho.",
+    "llm_response_7chunk": "Edward Hopper's painting \"House by the Railroad\" modeled the look of the Bates house in the movie Psycho."
+  },
+  {
+    "id": 26,
+    "question": "who painted the painting of the bearded man with dogs seen in the Goodfellas dinner scene?",
+    "answer": "Nicholas Pileggi's mother",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Nicholas Pileggi's mother painted the painting of the bearded man with the dogs.",
+    "llm_response_3chunk": "Nicholas Pileggi's mother painted the painting of the bearded man with the dogs that Tommy's mother brought out during the dinner scene in Goodfellas.",
+    "llm_response_5chunk": "Nicholas Pileggi's mother painted the painting of the bearded man with the dogs that was brought out by Tommy's mother in the dinner scene.",
+    "llm_response_7chunk": "Nicholas Pileggi's mother painted the painting of the bearded man with dogs seen in the Goodfellas dinner scene."
+  },
+  {
+    "id": 27,
+    "question": "which specific movie theater in Mexico City served as a recurring location in the film Roma?",
+    "answer": "Teatro Metropólitan",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "The movie theater serving as a recurring location in the film Roma was the Teatro Metropólitan.",
+    "llm_response_5chunk": "The movie theatre serving as a recurring location in the film Roma was the Teatro Metropólitan.",
+    "llm_response_7chunk": "The movie theatre serving as a recurring location in the film Roma was the Teatro Metropólitan."
+  },
+  {
+    "id": 28,
+    "question": "What is the name of Spike Lee’s production company?",
+    "answer": "40 Acres and a Mule Filmworks",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "I can't answer",
+    "llm_response_5chunk": "I can't answer",
+    "llm_response_7chunk": "I can't answer"
+  },
+  {
+    "id": 29,
+    "question": "In the movie The Lord of the Rings: The Fellowship of the Ring, how many total costumes were created by designer Ngila Dickson and her team of seamstresses?",
+    "answer": "19,000",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "19,000",
+    "llm_response_3chunk": "19,000",
+    "llm_response_5chunk": "Ngila Dickson and her team created 19,000 costumes for the film.",
+    "llm_response_7chunk": "Ngila Dickson and her team created 19,000 costumes for the film."
+  },
+  {
+    "id": 30,
+    "question": "In the movie Jurassic Park, which specific brand of shaving cream can does Dennis Nedry use to hide the stolen dinosaur embryos?",
+    "answer": "Barbasol",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "I can't answer",
+    "llm_response_5chunk": "Barbasol",
+    "llm_response_7chunk": "Barbasol"
+  },
+  {
+    "id": 31,
+    "question": "In the movie The Lord of the Rings: The Return of the King, what specific animal was used by the sound department to create the shriek of the giant spider Shelob?",
+    "answer": "Tasmanian devil",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "A Tasmanian devil was used to create the shriek of the giant spider Shelob.",
+    "llm_response_3chunk": "A Tasmanian devil was used to create Shelob's shriek.",
+    "llm_response_5chunk": "The Tasmanian devil was used to create the shriek of the giant spider Shelob.",
+    "llm_response_7chunk": "The Tasmanian devil was used to create the shriek of the giant spider Shelob."
+  },
+  {
+    "id": 32,
+    "question": "In which specific manor did Stanley Kubrick settle in 1978 to centralize his film productions?",
+    "answer": "Childwickbury Manor",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Childwickbury Manor",
+    "llm_response_3chunk": "Stanley Kubrick settled in Childwickbury Manor in 1978 to centralize his film productions.",
+    "llm_response_5chunk": "Stanley Kubrick settled in Childwickbury Manor in 1978 to centralize his film productions.",
+    "llm_response_7chunk": "Stanley Kubrick settled in Childwickbury Manor in 1978 to centralize his film productions."
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the production company founded by Wes Anderson?",
+    "answer": "American Empirical Pictures",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "I can't answer",
+    "llm_response_5chunk": "I can't answer",
+    "llm_response_7chunk": "Indian Paintbrush"
+  },
+  {
+    "id": 34,
+    "question": "What rank did Steven Spielberg attain as a Boy Scout in 1958?",
+    "answer": "Eagle Scout",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "I can't answer",
+    "llm_response_5chunk": "I can't answer",
+    "llm_response_7chunk": "Eagle Scout"
+  },
+  {
+    "id": 35,
+    "question": "Which 1973 television advertisement directed by Ridley Scott was voted the UK's favorite commercial in a 2006 poll?",
+    "answer": "Hovis bread advertisement",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "\"Bike Round\"",
+    "llm_response_3chunk": "\"Bike Round\"",
+    "llm_response_5chunk": "\"Bike Round\"",
+    "llm_response_7chunk": "\"Bike Round\""
+  },
+  {
+    "id": 36,
+    "question": "What was the initial title of the script for the sequel before it was named The Godfather Part II?",
+    "answer": "The Death of Michael Corleone",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "The Death of Michael Corleone",
+    "llm_response_3chunk": "The Death of Michael Corleone",
+    "llm_response_5chunk": "The Death of Michael Corleone.",
+    "llm_response_7chunk": "The initial title of the script for the sequel was \"The Death of Michael Corleone.\""
+  },
+  {
+    "id": 37,
+    "question": "What was the name of the British advertising agency where Satyajit Ray started working as a junior visualiser in 1943?",
+    "answer": "D.J. Keymer",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "D.J. Keymer",
+    "llm_response_5chunk": "D.J. Keymer",
+    "llm_response_7chunk": "D.J. Keymer"
+  },
+  {
+    "id": 38,
+    "question": "What was the name of the portrait shop that Federico Fellini opened in Rimini in 1937?",
+    "answer": "Febo",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "I can't answer",
+    "llm_response_5chunk": "The portrait shop that Federico Fellini opened in Rimini in 1937 was named Febo.",
+    "llm_response_7chunk": "The portrait shop that Federico Fellini opened in Rimini in 1937 was named Febo."
+  },
+  {
+    "id": 39,
+    "question": "In the movie Schindler's List, which charismatic CEO did Steven Spielberg show Liam Neeson film clips of to help him prepare for the role of Oskar Schindler?",
+    "answer": "Steve Ross (or Time Warner CEO Steve Ross)",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "In the movie Schindler's List, Steven Spielberg showed Liam Neeson film clips of Time Warner CEO Steve Ross to help him prepare for the role of Oskar Schindler.",
+    "llm_response_3chunk": "Steven Spielberg showed Liam Neeson film clips of Time Warner CEO Steve Ross to help him prepare for the role of Oskar Schindler.",
+    "llm_response_5chunk": "Steven Spielberg showed Liam Neeson film clips of Steve Ross, the CEO of Time Warner, to help him prepare for the role of Oskar Schindler.",
+    "llm_response_7chunk": "Steven Spielberg showed Liam Neeson film clips of Steve Ross, the CEO of Time Warner, to help him prepare for the role of Oskar Schindler."
+  },
+  {
+    "id": 40,
+    "question": "What material was used to construct the wall around the Corleone family compound for the film?",
+    "answer": "Styrofoam",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "The wall around the Corleone family compound was made from styrofoam.",
+    "llm_response_3chunk": "The wall around the Corleone family compound was made from styrofoam.",
+    "llm_response_5chunk": "The wall around the Corleone family compound was made from styrofoam.",
+    "llm_response_7chunk": "The wall around the Corleone family compound was made from styrofoam."
+  },
+  {
+    "id": 41,
+    "question": "In the movie Fight Club, what was the weight of the fat harness worn by actor Meat Loaf to portray the character Bob?",
+    "answer": "90 pounds (40 kg)",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "The fat harness worn by Meat Loaf weighed 90 pounds (40 kg).",
+    "llm_response_3chunk": "The fat harness worn by Meat Loaf weighed 90 pounds (40 kg).",
+    "llm_response_5chunk": "The fat harness Meat Loaf wore weighed 90 pounds (40 kg).",
+    "llm_response_7chunk": "The fat harness worn by Meat Loaf weighed 90 pounds (40 kg)."
+  },
+  {
+    "id": 42,
+    "question": "In the movie The Empire Strikes Back, how many short tons of dendritic salt were used to create the snowy sets?",
+    "answer": "50 short tons",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Around 50 short tons (45 long tons) of dendritic salt were used.",
+    "llm_response_3chunk": "Around 50 short tons (45 long tons) of dendritic salt were used to create the snowy sets.",
+    "llm_response_5chunk": "50 short tons (45 long tons)",
+    "llm_response_7chunk": "Around 50 short tons (45 long tons) of dendritic salt were used to create the snowy sets for the movie The Empire Strikes Back."
+  },
+  {
+    "id": 43,
+    "question": "What did Ingmar Bergman trade in exchange for a magic lantern when he was nine years old?",
+    "answer": "A set of tin soldiers",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "A set of tin soldiers",
+    "llm_response_3chunk": "Ingmar Bergman traded a set of tin soldiers for a magic lantern when he was nine years old.",
+    "llm_response_5chunk": "Ingmar Bergman traded a set of tin soldiers for a magic lantern when he was nine years old.",
+    "llm_response_7chunk": "Ingmar Bergman traded a set of tin soldiers for a magic lantern when he was nine years old."
+  },
+  {
+    "id": 44,
+    "question": "What was the name of the permanent estate in Switzerland where Charlie Chaplin lived from 1953 until his death?",
+    "answer": "Manoir de Ban",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Manoir de Ban",
+    "llm_response_3chunk": "Manoir de Ban",
+    "llm_response_5chunk": "Manoir de Ban",
+    "llm_response_7chunk": "Manoir de Ban"
+  },
+  {
+    "id": 45,
+    "question": "In the city of Casablanca, what is the name of the forest that is considered the only natural attraction besides the Atlantic coast?",
+    "answer": "Bouskoura forest",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "The Bouskoura forest",
+    "llm_response_3chunk": "The Bouskoura forest",
+    "llm_response_5chunk": "The Bouskoura forest",
+    "llm_response_7chunk": "The Bouskoura forest"
+  },
+  {
+    "id": 46,
+    "question": "In the movie Vertigo, what is the specific street address of the apartment where the character Scottie Ferguson lives?",
+    "answer": "900 Lombard Street",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "I can't answer",
+    "llm_response_3chunk": "900 Lombard Street",
+    "llm_response_5chunk": "Scottie Ferguson's apartment is located at 900 Lombard Street.",
+    "llm_response_7chunk": "Scottie Ferguson's apartment is located at 900 Lombard Street."
+  },
+  {
+    "id": 47,
+    "question": "In the movie 2001: A Space Odyssey, who was the designer of the bright red Djinn chairs seen prominently in the space station?",
+    "answer": "Olivier Mourgue",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "Olivier Mourgue was the designer of the bright red Djinn chairs seen prominently in the space station.",
+    "llm_response_3chunk": "Olivier Mourgue was the designer of the bright red Djinn chairs seen prominently in the space station.",
+    "llm_response_5chunk": "Olivier Mourgue was the designer of the bright red Djinn chairs seen prominently in the space station.",
+    "llm_response_7chunk": "Olivier Mourgue was the designer of the bright red Djinn chairs seen prominently in the space station."
+  },
+  {
+    "id": 48,
+    "question": "According to designer Simon Whiteley, what were the green characters of the digital code in the movie The Matrix made out of?",
+    "answer": "Japanese sushi recipes",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "According to Simon Whiteley, the green characters of the digital code in The Matrix were made out of Japanese sushi recipes.",
+    "llm_response_3chunk": "According to designer Simon Whiteley, the green characters of the digital code in The Matrix were made out of Japanese sushi recipes.",
+    "llm_response_5chunk": "According to designer Simon Whiteley, the green characters of the digital code in The Matrix were made out of Japanese sushi recipes.",
+    "llm_response_7chunk": "According to designer Simon Whiteley, the green characters of the digital code in The Matrix were made out of Japanese sushi recipes."
+  },
+  {
+    "id": 49,
+    "question": "What was the name of the country estate that Audrey Hepburn purchased in the village of Tolochenaz, Switzerland?",
+    "answer": "La Paisible",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "La Paisible",
+    "llm_response_3chunk": "The country estate Audrey Hepburn purchased in the village of Tolochenaz, Switzerland was named \"La Paisible\" (\"The Peaceful One\").",
+    "llm_response_5chunk": "The country estate Audrey Hepburn purchased in the village of Tolochenaz, Switzerland was named \"La Paisible\" (\"The Peaceful One\").",
+    "llm_response_7chunk": "The country estate Audrey Hepburn purchased in the village of Tolochenaz, Switzerland was named \"La Paisible\" (\"The Peaceful One\")."
+  },
+  {
+    "id": 50,
+    "question": "To which Armenian-American NYU film professor did Martin Scorsese dedicate the movie Raging Bull?",
+    "answer": "Haig P. Manoogian",
+    "llm_response_0chunk": "I can't answer",
+    "llm_response_1chunk": "To Martin Scorsese, the movie Raging Bull was dedicated to Armenian-American NYU film professor Haig P. Manoogian.",
+    "llm_response_3chunk": "Martin Scorsese dedicated the movie Raging Bull to Armenian-American NYU film professor Haig P. Manoogian.",
+    "llm_response_5chunk": "Martin Scorsese dedicated the movie Raging Bull to Armenian-American NYU film professor Haig P. Manoogian.",
+    "llm_response_7chunk": "Martin Scorsese dedicated the movie Raging Bull to Armenian-American NYU film professor Haig P. Manoogian."
+  }
+]
